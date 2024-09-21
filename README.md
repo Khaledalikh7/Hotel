@@ -12,6 +12,6 @@ the important questions was about :
 -average rental revenue earned(ADR)
 -meal plans
 
-The next stage was hashtag#processing and hashtag#cleaning the raw data
+The next stage was processing and cleaning the raw data
 using Power_Query and then visualizing the data
 using power bi to get useful insights
